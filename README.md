@@ -5,13 +5,13 @@ Project Name: Careo-Beauty Health
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Links:
 
-Github Reprository link: 
+Github Reprository link: https://github.com/rajasree26/CAREO
 
-GIthub Project Link:
+GIthub Project Link:https://rajasree26.github.io/CAREO/
 
-Azure Project Link:
+Azure Project Link:https://yellow-river-0975fc910.2.azurestaticapps.net
 
-Azure BOt Link:
+Azure BOt Link:https://eastus.healthbot.microsoft.com/account/beautyhealthbot-cwowjth
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
