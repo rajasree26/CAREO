@@ -35,6 +35,32 @@ CSS,
 JAVASCRIPT.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Azure Resources screenshots,Static Webapps,Healthbot:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Azure resources :
+
+![Azure resources](https://user-images.githubusercontent.com/115467222/208863830-945f4020-18ef-4b08-8284-a626fde7f44c.png)
+
+Azure Static Webapp:
+![azure static webapp](https://user-images.githubusercontent.com/115467222/208863965-85d4bf65-ea7a-4e76-a128-c4347a8bffbc.png)
+
+Azure Healthbot:
+![Azure health bot](https://user-images.githubusercontent.com/115467222/208864262-2b3bfdf3-e3aa-4789-8f44-7d8ba1c5489f.png)
+
+Azure Healthbot Scenairo management:
+
+![Azure healthbot scenario management](https://user-images.githubusercontent.com/115467222/208864375-23b82ff6-8c82-44a4-b00e-bdb6c1666d3e.png)
+
+Azure Health bot tests in webchat:
+
+![azure healthbot test in webcaht1](https://user-images.githubusercontent.com/115467222/208864578-6862cbed-a071-4318-ad5e-fc29c195955d.png)
+
+![test in webchat2](https://user-images.githubusercontent.com/115467222/208864645-daa1ffe7-fc34-4255-bfa9-c54e208dc069.png)
+
+![test in webchat4](https://user-images.githubusercontent.com/115467222/208864707-d0ef5c9f-a963-4a42-894d-09cdcac98958.png)
+
+![test in webchat5](https://user-images.githubusercontent.com/115467222/208864750-ff86646d-a300-4238-9788-99ac21b53311.png)
 
 # Project Screen Shots:
  Homepage:
