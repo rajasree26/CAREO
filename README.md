@@ -80,3 +80,12 @@ Services:
 
 Azure Beauty Healthbot:
 ![beautyhealthbot](https://user-images.githubusercontent.com/115467222/206622986-5439d873-94d1-418b-931b-6b15a9288562.png)
+
+![bot1](https://user-images.githubusercontent.com/115467222/208866320-15358ab2-c4fc-4bcd-8236-316ae24068d8.png)
+
+![bot2](https://user-images.githubusercontent.com/115467222/208866360-b1a449b3-2a14-4a2c-b8a5-d741a7c584e5.png)
+
+![bot3](https://user-images.githubusercontent.com/115467222/208866427-6dded21a-6d55-4af4-8249-a2c169eeab8e.png)
+
+![bot4](https://user-images.githubusercontent.com/115467222/208866480-980952e0-4bf2-44b4-a443-a253af5457ed.png)
+
